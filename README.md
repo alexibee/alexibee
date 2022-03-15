@@ -1,5 +1,5 @@
   
-<p align="center"> <img src='https://user-images.githubusercontent.com/29962880/158429322-371f3989-892f-4636-8365-78ac5bd4082a.gif' alt='screaming sun'> </p>
+<p align="center"> <img src='https://user-images.githubusercontent.com/29962880/158429322-371f3989-892f-4636-8365-78ac5bd4082a.gif' alt='screaming sun' width="150" height="150"> </p>
 
 <h1 align="center">  Hey there people and all the others!!! 🐶🐱🐹🐻👽🤖 </h1>
 
