@@ -30,10 +30,10 @@
   Started learning <img src='https://user-images.githubusercontent.com/29962880/158440607-3337dc91-c8df-4227-a167-611e185ccba6.svg' alt='react' width="30" height="30"> too, if you have any tips I am all 👂👂👂
 
   Apart from code I am into:
-  🎼🎸🥁
-  🪴🌿🍃
-  🏔🏝🏛
-  🧩🧩🧩
+  <p> 🎼🎸🥁 </p>
+  <p> 🪴🌿🍃 </p>
+  <p> 🏔🏝🏛 </p>
+  <p> 🧩🧩🧩 </p>
   
   Don't be a 👻 add me on [LinkedIn](https://www.linkedin.com/in/aleksejs-brehovs-21177787 "LinkedIn profile") 
 
