@@ -9,7 +9,7 @@
 
   <p> I know you're not asking, but since you're here: </p>
 
-  I am just out of coding bootcamp and currently am working on...
+  I am just out of Le Wagon coding bootcamp and currently am working on...
 
   **Finding a job** - if you can help in any way, please let me know! 😉
 
