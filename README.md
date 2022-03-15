@@ -13,7 +13,7 @@
 
   **Finding a job** - if you can help in any way, please let me know! 😉
 
-  **But also on [thisss](https://github.com/alexibee/wheelp "Wheelp")** 🛠 
+  **But also on [THISSS](https://github.com/alexibee/wheelp "Wheelp")** 🛠 
 
   Can do stuff in and with:
   <img src='https://user-images.githubusercontent.com/29962880/158440611-94e6dffd-d964-4331-a899-433ea4e8457a.svg' alt='ruby' width="30" height="30">
