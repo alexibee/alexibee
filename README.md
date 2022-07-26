@@ -10,6 +10,7 @@
 
   Can do stuff in and with:
   
+  <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' alt='typescript' width="30" height="30">
   <img src='https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg' alt='laravel' width="30" height="30">
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' alt='php' width="30" height="30">
   <img src='https://user-images.githubusercontent.com/29962880/158440607-3337dc91-c8df-4227-a167-611e185ccba6.svg' alt='react' width="30" height="30">
