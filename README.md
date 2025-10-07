@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   
   ![readme](https://user-images.githubusercontent.com/29962880/208195830-ea2307f3-4f23-4938-a611-a7f9f8d29395.svg)
@@ -19,6 +19,6 @@
   </div>  
 
 </div> 
- 
+  -->
 
 
